@@ -1,7 +1,6 @@
 package com.neoquest.voting.crypt;
 
 import android.util.Base64;
-import android.util.Log;
 
 import com.neoquest.voting.model.entity.VoteRequest;
 
@@ -25,7 +24,6 @@ public class Encrypter {
         return voteRequest;
     }
 
-    public native void keyGen(char[] k, char[] pub, char[] priv);
     public native void encrypt(char[] publicKey, char[] k, char[] message, char[] images);
-    public native void decrypt(char[] privateKey, char[] k, char[] message, char[] images);
+
 }
