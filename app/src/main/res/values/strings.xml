@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NeoQuest</string>
+    <string name="vote">Голосовать</string>
+    <string name="cancel">Отмена</string>
+    <string name="vote_for_report">Голосовать за проект <![CDATA[<b>&laquo;%1$s&raquo;</b>]]>?</string>
+    <string name="success_vote">Спасибо, Ваш голос учтен!</string>
+    <string name="results_title">Результаты голосования</string>
+    <string name="first_title">Кибербезопасное событие этого лета</string>
+    <string name="reports_list">Список докладов:</string>
+    <string name="error">Произошла ошибка</string>
+    <string name="no_internet">Отсутствует подключение к интернету</string>
+    <string name="already_voted">Ваше устройство уже участовавло в голосовании</string>
+</resources>

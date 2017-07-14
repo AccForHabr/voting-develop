@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3B3758</color>
+    <color name="colorPrimaryDark">#2A1A35</color>
+    <color name="colorAccent">#01D392</color>
+    <color name="colorItemBackground">#883B3758</color>
+    <color name="colorProgress">#8801D392</color>
+    <color name="colorProgressBackground">#77FFFFFF</color>
+    <color name="dialogColorBackground">#DD3B3758</color>
+    <color name="colorDivider">#70FFFFFF</color>
+    <color name="pink">#E91844</color>
+    <color name="red">#DB2949</color>
+</resources>
